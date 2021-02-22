@@ -88,3 +88,20 @@ span.current-experience {
     top: 12px;
     transform: translateX(-50%);
 }
+
+.BTN {
+    width: 150px;
+    height: 50px;
+    margin-top: 4rem;
+    background-color: #5965E0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    margin: 30px;
+}
+
+.BTNs {
+    display: flex;
+    justify-content: center;
+}
